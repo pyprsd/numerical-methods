@@ -65,3 +65,7 @@ Numerical Methods
   - Adequacy of Linear Regression Models
 # 16. Optimization methods, gradient desent
 # 17. Artificial neural network
+
+
+# Resource 
+ - https://math.libretexts.org/Workbench/Numerical_Methods_with_Applications_(Kaw)
