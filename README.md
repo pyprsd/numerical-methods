@@ -39,6 +39,10 @@ Numerical Methods
   - Length of a Curve
 # 9. finite difference
 # 10. numerical differentiation
+  - Physical Problems for Numerical Differentiation
+  - Prerequisites to Numerical Differentiation
+  - Numerical Differentiation of Continous Functions
+  - Numerical Differentiation of Functions at Discrete Data Points
 # 11. Numerical integration
   - Physical Problems for Integration
   - Prerequistes to Numerical Integration
@@ -49,6 +53,7 @@ Numerical Methods
   - Physical Problems for Ordinary Differential Equations
   - Prerequistis to Numerical Methods for Solving Ordinary Differential Equations
   - Euler's Method for Solving Ordinary Differential Equations
+  - Runge-Kutta 2nd-Order Method for solving Ordinary Differential Equations
   - On solving Higher-Order and Coupled Ordinary Differential Equations
 # 13. Partial differential equations
 # 14. Case studies: modeling, non-dimensionalization, solution, validation
